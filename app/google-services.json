@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051942541604",
+    "firebase_url": "https://fitlog-59da9.firebaseio.com",
+    "project_id": "fitlog-59da9",
+    "storage_bucket": "fitlog-59da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051942541604:android:aee9ef604c3d13dc",
+        "android_client_info": {
+          "package_name": "com.example.ragheed.liftlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051942541604-hjba6skn2122j9l1dm5910k9j11f7jrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ragheed.liftlog",
+            "certificate_hash": "0ad09864160201d96cef86907b2e34c37eb741dd"
+          }
+        },
+        {
+          "client_id": "1051942541604-4b7sau8c3t1p1jts0h3s4kmltcti408n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhBvhfoQ-hcCjdSGQgSVKbpvB_83SIsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051942541604-4b7sau8c3t1p1jts0h3s4kmltcti408n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

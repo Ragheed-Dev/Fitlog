@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="206dp"
+        android:text="Welcome to"
+        android:textColor="#ffff"
+        android:textSize="23sp"
+        android:textStyle="italic" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="245dp"
+        android:text="Fitlog"
+        android:textColor="#ffff"
+        android:textSize="23sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/start_reg_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="#ffff"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:text="NEED A NEW ACCOUNT?" />
+    <Button
+        android:id="@+id/start_login_button"
+        android:layout_width="wrap_content"
+        android:backgroundTint="#ffff"
+        android:textColor="@color/colorAccent"
+        android:layout_below="@id/start_reg_button"
+        android:layout_centerInParent="true"
+        android:text="ALREADY HAVE ACCOUNT"
+        android:layout_marginTop="25dp"
+        android:layout_height="wrap_content" />
+
+
+
+</RelativeLayout>
